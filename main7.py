@@ -4,7 +4,7 @@
 # user_day = int(input("введите количество дней:"))
 # user_sum_day = int(input(f"введите бюджет на траты в течении {user_day} дней:"))
 # total_1 = user_num * user_num_day
-# total_2 = user_money_tiket + user_money_hostel 
+# total_2 = user_money_tiket + user_money_hostel #старая версия
 # total_3 = user_sum_day // user_day
 # total_4 = user_sum_day % user_day
 # if total_1 < 10000:
